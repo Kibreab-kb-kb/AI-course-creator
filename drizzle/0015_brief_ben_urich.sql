@@ -1,0 +1,1 @@
+ALTER TABLE "questions" ALTER COLUMN "topic_id" SET NOT NULL;
